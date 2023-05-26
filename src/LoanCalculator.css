@@ -1,0 +1,65 @@
+.loan-calculator {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f8f8f8;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .calculator-heading {
+    text-align: center;
+    color: #333;
+  }
+  
+  .input-container {
+    margin-bottom: 10px;
+  }
+  
+  .input-label {
+    display: block;
+    margin-bottom: 5px;
+    color: #555;
+  }
+  
+  .input-field {
+    width: 100%;
+    padding: 5px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    color: #333;
+  }
+  
+  .calculate-button {
+    display: block;
+    width: 100%;
+    padding: 8px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+    background-color: #555;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .interest-rate {
+    margin-top: 20px;
+    font-weight: bold;
+    color: #555;
+  }
+  
+  .installment-heading {
+    margin-top: 20px;
+    font-weight: bold;
+    color: #555;
+  }
+  
+  .installment-amount {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    color: #333;
+  }
+  
